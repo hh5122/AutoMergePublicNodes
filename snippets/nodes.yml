@@ -931,414 +931,8 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '11|5|d*********g.com_0 #3'
-  network: ws
-  port: 2052
-  server: 104.19.38.18
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: '11|5|d*********g.com_1 #3'
-  network: ws
-  port: 2052
-  server: 104.26.0.66
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: '11|5|d*********g.com_2 #3'
-  network: ws
-  port: 2052
-  server: 23.227.38.13
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: '11|5|d*********g.com_3 #3'
-  network: ws
-  port: 2052
-  server: 104.19.38.22
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_4
-  network: ws
-  port: 2052
-  server: 172.64.175.98
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_5
-  network: ws
-  port: 2052
-  server: 172.64.99.32
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_6
-  network: ws
-  port: 2052
-  server: 104.19.21.81
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_7
-  network: ws
-  port: 2052
-  server: 172.64.175.223
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_8
-  network: ws
-  port: 2052
-  server: 172.64.198.229
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_9
-  network: ws
-  port: 2052
-  server: 172.64.194.96
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_10
-  network: ws
-  port: 2052
-  server: 104.19.21.73
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_11
-  network: ws
-  port: 2052
-  server: 104.19.123.31
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_12
-  network: ws
-  port: 2052
-  server: 104.18.57.121
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_13
-  network: ws
-  port: 2052
-  server: 104.19.21.240
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_14
-  network: ws
-  port: 2052
-  server: 104.19.21.220
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_15
-  network: ws
-  port: 2052
-  server: 104.19.46.123
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_16
-  network: ws
-  port: 2052
-  server: 104.19.32.226
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_17
-  network: ws
-  port: 2052
-  server: 104.19.47.75
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_18
-  network: ws
-  port: 2052
-  server: 104.19.58.185
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_19
-  network: ws
-  port: 2052
-  server: 104.19.55.79
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_20
-  network: ws
-  port: 2052
-  server: 104.19.42.79
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_21
-  network: ws
-  port: 2052
-  server: 104.17.106.171
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_22
-  network: ws
-  port: 2052
-  server: 104.19.57.24
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_23
-  network: ws
-  port: 2052
-  server: 104.19.59.99
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_29
-  network: ws
-  port: 2052
-  server: 104.20.17.196
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_28
-  network: ws
-  port: 2052
-  server: 104.20.25.166
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_26
-  network: ws
-  port: 2052
-  server: 104.20.25.176
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_27
-  network: ws
-  port: 2052
-  server: 104.26.7.152
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 11|5|d*********g.com_30
-  network: ws
-  port: 2052
-  server: 172.67.74.122
-  servername: cdn3.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn3.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
   client-fingerprint: chrome
-  name: 11,15|🇭🇰 香港2|@ripaojiedian
+  name: 11,15|🇭🇰 香港6|@ripaojiedian
   network: ws
   port: 46001
   server: mmhk01.micloud.buzz
@@ -1351,23 +945,23 @@ proxies:
     headers:
       Host: mmhk01.micloud.buzz
     path: /zh-cn
-- alterId: 64
+- alterId: 0
   cipher: auto
   client-fingerprint: chrome
   name: 11,15,16|香港3|@ripaojiedian
   network: ws
-  port: '443'
-  server: 103.212.98.234
-  servername: www.59795160.xyz
+  port: '10184'
+  server: 36.139.183.164
+  servername: ''
   skip-cert-verify: false
   tfo: false
-  tls: true
+  tls: false
   type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  uuid: cbf73243-836e-4994-9d66-bc8b311a4491
   ws-opts:
     headers:
-      Host: www.59795160.xyz
-    path: /path/011410073331
+      Host: ''
+    path: /name
 - alterId: 64
   cipher: auto
   name: 11,16|香港5|@ripaojiedian
@@ -1378,23 +972,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 64
-  cipher: auto
-  client-fingerprint: chrome
-  name: 11,15,16|日本2|@ripaojiedian
-  network: ws
-  port: '443'
-  server: 134.122.139.79
-  servername: www.48907900.xyz
-  skip-cert-verify: false
-  tfo: false
-  tls: true
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  ws-opts:
-    headers:
-      Host: www.48907900.xyz
-    path: /path/011410073331
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -1414,7 +991,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 11,15,16|日本6|@ripaojiedian
+  name: 11,15,16|日本4|@ripaojiedian
   network: ws
   port: '80'
   server: cfcdn3.sanfencdn9.com
@@ -1423,28 +1000,11 @@ proxies:
   tfo: false
   tls: false
   type: vmess
-  uuid: 4c27e0c5-de26-43a5-bffd-2d25beb1c1d3
+  uuid: 409fe654-65e4-4fce-ac9a-faaff3d334ec
   ws-opts:
     headers:
       Host: oA5FSz9Tjp1.yofnhkfc.xyz
     path: /video/P7EExoE2
-- alterId: 64
-  cipher: auto
-  client-fingerprint: chrome
-  name: 11,15,16|韩国2|@ripaojiedian
-  network: ws
-  port: '30000'
-  server: 137.220.130.58
-  servername: www.68703921.xyz
-  skip-cert-verify: false
-  tfo: false
-  tls: true
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  ws-opts:
-    headers:
-      Host: www.68703921.xyz
-    path: /path/011410073331
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -1465,23 +1025,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 11,15|🇺🇸 美国2|@ripaojiedian
-  network: ws
-  port: 46036
-  server: mmus36.micloud.buzz
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 638501f6-0ba0-47cb-bcfe-200cc1169e81
-  ws-opts:
-    headers:
-      Host: mmus36.micloud.buzz
-    path: /zh-cn
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 11,15,16|美国3|@ripaojiedian
+  name: 11,15,16|美国2|@ripaojiedian
   network: ws
   port: '2052'
   server: cfcdn1.sanfencdn9.com
@@ -1490,11 +1034,11 @@ proxies:
   tfo: false
   tls: false
   type: vmess
-  uuid: 4c27e0c5-de26-43a5-bffd-2d25beb1c1d3
+  uuid: 409fe654-65e4-4fce-ac9a-faaff3d334ec
   ws-opts:
     headers:
-      Host: us2jdgv5GC7.fzbqfrse.xyz
-    path: /video/DDC4btA8wc/
+      Host: us1cPZiz8nb.fzbqfrse.xyz
+    path: /video/6VBhAkCtV4/
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -1530,23 +1074,7 @@ proxies:
     path: /zh-cn
 - alterId: 0
   cipher: auto
-  client-fingerprint: chrome
-  name: 11,15|🇭🇺 匈牙利|@ripaojiedian
-  network: ws
-  port: 46082
-  server: mmhu82.micloud.buzz
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 638501f6-0ba0-47cb-bcfe-200cc1169e81
-  ws-opts:
-    headers:
-      Host: mmhu82.micloud.buzz
-    path: /zh-cn
-- alterId: 0
-  cipher: auto
-  name: 11,16|香港2|@ripaojiedian
+  name: 11,16|香港6|@ripaojiedian
   network: ws
   port: '46001'
   server: mmhk01.micloud.buzz
@@ -1574,20 +1102,6 @@ proxies:
     path: /zh-cn
 - alterId: 0
   cipher: auto
-  name: 11,16|美国2|@ripaojiedian
-  network: ws
-  port: '46036'
-  server: mmus36.micloud.buzz
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 638501f6-0ba0-47cb-bcfe-200cc1169e81
-  ws-opts:
-    headers:
-      Host: ''
-    path: /zh-cn
-- alterId: 0
-  cipher: auto
   name: 11,16|德国|@ripaojiedian
   network: ws
   port: '46092'
@@ -1602,21 +1116,7 @@ proxies:
     path: /zh-cn
 - alterId: 0
   cipher: auto
-  name: 11,16|匈牙利|@ripaojiedian
-  network: ws
-  port: '46082'
-  server: mmhu82.micloud.buzz
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 638501f6-0ba0-47cb-bcfe-200cc1169e81
-  ws-opts:
-    headers:
-      Host: ''
-    path: /zh-cn
-- alterId: 0
-  cipher: auto
-  name: '11|13|d*********g.com_2 #4'
+  name: '11|13|d*********g.com_2 #3'
   network: tcp
   port: '443'
   server: 42.236.73.72
@@ -1748,6 +1248,14 @@ proxies:
     headers:
       Host: server32.beheshtbaneh.com
     path: /
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 15|🇭🇰 香港2|@ripaojiedian
+  password: 305ee3f1-b224-40e8-8a1c-b5f66c4ef40f
+  port: 36993
+  server: aa01gg.sssyun.xyz
+  tfo: false
+  type: ss
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
@@ -1762,50 +1270,34 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 15|🇭🇰 香港6|@ripaojiedian
-  password: 3632bd90-d85e-42ef-a2b3-36393ae88c17
-  port: 36993
-  server: aa01gg.sssyun.xyz
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
   name: 15|🇭🇰 香港7|@ripaojiedian
-  password: 3632bd90-d85e-42ef-a2b3-36393ae88c17
-  port: 39301
-  server: aa01gg.sssyun.xyz
-  tfo: false
-  type: ss
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 15|🇭🇰 香港8|@ripaojiedian
-  password: ad2114ca-1c75-4607-ad14-1a1824a6dde9
-  port: 10182
-  server: 36.139.183.164
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 15|🇹🇼 台湾|@ripaojiedian
-  password: 3632bd90-d85e-42ef-a2b3-36393ae88c17
+  password: 305ee3f1-b224-40e8-8a1c-b5f66c4ef40f
   port: 39201
   server: aa01gg.sssyun.xyz
   tfo: false
   type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 15|🇯🇵 日本4|@ripaojiedian
-  password: 3632bd90-d85e-42ef-a2b3-36393ae88c17
-  port: 49207
-  server: aa01gg.sssyun.xyz
+  name: 15|🇹🇼 台湾|@ripaojiedian
+  password: 305ee3f1-b224-40e8-8a1c-b5f66c4ef40f
+  port: 40018
+  server: gg01.6bnw.top
   tfo: false
   type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 15|🇸🇬 新加坡2|@ripaojiedian
-  password: 3632bd90-d85e-42ef-a2b3-36393ae88c17
-  port: 39204
-  server: aa01gg.sssyun.xyz
+  name: 15|🇯🇵 日本2|@ripaojiedian
+  password: 305ee3f1-b224-40e8-8a1c-b5f66c4ef40f
+  port: 40019
+  server: gg01.6bnw.top
+  tfo: false
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 15|🇸🇬 新加坡|@ripaojiedian
+  password: 305ee3f1-b224-40e8-8a1c-b5f66c4ef40f
+  port: 40014
+  server: gg01.6bnw.top
   tfo: false
   type: ss
 - cipher: aes-256-cfb
@@ -1813,7 +1305,7 @@ proxies:
   name: 15|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 47.128.150.72
+  server: 13.229.87.253
   tfo: false
   type: ss
 - cipher: aes-256-cfb
@@ -1821,7 +1313,7 @@ proxies:
   name: 15|🇰🇷 韩国特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 3.112.220.140
+  server: 52.197.150.228
   tfo: false
   type: ss
 - cipher: aes-256-cfb
@@ -1829,6 +1321,14 @@ proxies:
   name: 15|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 18.183.186.14
+  server: 43.201.254.74
+  tfo: false
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 15|🇷🇺 俄罗斯|@ripaojiedian
+  password: d8285a86cdb003de
+  port: 62135
+  server: 46.17.44.16
   tfo: false
   type: ss
