@@ -1,17 +1,31 @@
 proxies:
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 15|🇹🇼 台湾|@ripaojiedian
-  password: JWK22ZOMOBYNN125
-  port: 21007
-  server: 150.116.11.11
-  tfo: false
+- client-fingerprint: chrome
+  name: 10,11|台湾|@ripaojiedian
+  network: tcp
+  password: 5120e15f-6a00-41f0-be5e-1032f4bba4fc
+  port: 42765
+  server: wb.kaiqsz.com
+  skip-cert-verify: true
+  sni: mmbiz1.redapricotcloud.com
+  type: trojan
+- cipher: chacha20-ietf-poly1305
+  name: 13|🇹🇼 台湾 01 | 1x TW
+  password: b8ad259c-e7d1-4dc0-95d6-2f7997693725
+  port: 36241
+  server: free.2weradf.xyz
   type: ss
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 15|🇹🇼 台湾2|@ripaojiedian
-  password: 4SQDULUG1L5LS1OI
-  port: 21002
-  server: ti3hyra4.slashdevslashnetslashtun.net
-  tfo: false
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 13|🇹🇼 台湾 02 | 1x TW
+  password: b8ad259c-e7d1-4dc0-95d6-2f7997693725
+  port: 36243
+  server: free.2weradf.xyz
   type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 13|🇹🇼 台湾 03 | 1x TW
+  password: b8ad259c-e7d1-4dc0-95d6-2f7997693725
+  port: 36245
+  server: free.2weradf.xyz
+  type: ss
+  udp: true

@@ -1,8 +1,8 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 13|🇨🇦 加拿大 01 | 1x CA
+  name: 13|🇬🇧 英国住宅IP 01 | 1x UK
   password: b8ad259c-e7d1-4dc0-95d6-2f7997693725
-  port: 36441
+  port: 36271
   server: free.2weradf.xyz
   type: ss
   udp: true

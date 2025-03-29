@@ -1,109 +1,11 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: '3,17|🇺🇸_US_美国 #3'
-  network: ws
-  port: 2082
-  server: cfcdn1.sanfencdn9.com
-  tls: false
-  type: vmess
-  uuid: cd0eb936-9e1e-4730-989e-be43e7fcaf3e
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: '3,17|🇺🇸_US_美国 #4'
-  network: ws
-  port: 2086
-  server: 104.19.32.46
-  tls: false
-  type: vmess
-  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: '3,17|🇺🇸_US_美国 #5'
-  network: ws
-  port: 8080
-  server: russia.com
-  tls: false
-  type: vmess
-  uuid: b7c56170-edb4-4c4a-bb64-ed5ef40b8739
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: 12|github.com/freefq - 美国CloudFla...
-  network: ws
-  port: 8080
-  server: www.darkroom.lol
-  tls: false
-  type: vmess
-  uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0
-  ws-opts:
-    headers:
-      Host: www.darkroom.lol
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '12|github.com/freefq - 美国CloudFla... #1'
-  network: ws
-  port: 8880
-  server: server31.beheshtbaneh.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 4154143c-bbba-47a4-9f79-c2ed087cbcc9
-  ws-opts:
-    headers:
-      Host: server31.beheshtbaneh.com
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '12|github.com/freefq - 美国CloudFla... #2'
-  network: ws
-  port: 8880
-  server: 104.21.82.183
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 5a7021e0-26b4-45d6-b175-fe551601ca97
-  ws-opts:
-    headers:
-      Host: server26.beheshtbaneh.com
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 12|github.com/freefq - 美国Fastly全球...
-  network: ws
-  port: 443
-  server: gov.uk
-  tls: true
-  type: vmess
-  uuid: 77848824-93b7-4b89-ffd0-e91afff406ce
-  ws-opts:
-    headers:
-      Host: zheshiscp.com
-    path: /77848824
-- alterId: 0
-  cipher: auto
-  name: '12|github.com/freefq - 美国CloudFla... #3'
-  network: ws
-  port: 8880
-  server: server32.beheshtbaneh.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 044ba8ed-7285-472a-bc14-fb91dc6be4c9
-  ws-opts:
-    headers:
-      Host: server32.beheshtbaneh.com
-    path: /
 - cipher: rc4-md5
   client-fingerprint: chrome
-  name: 15|🇺🇸 美国|@ripaojiedian
+  name: 10|🇺🇸 美国|@ripaojiedian
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202503170996717-vlFfFCZhtT.download.microsoft.com
+    host: 202503170996717-bgAUFz3awY.download.microsoft.com
     mode: http
   port: 8771
   server: cn01.efan8867801.xyz
@@ -111,29 +13,82 @@ proxies:
   type: ss
 - cipher: rc4-md5
   client-fingerprint: chrome
-  name: 15|🇺🇸 美国2|@ripaojiedian
+  name: 10|🇺🇸 美国2|@ripaojiedian
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202503170996717-vlFfFCZhtT.download.microsoft.com
+    host: 202503170996717-bgAUFz3awY.download.microsoft.com
     mode: http
   port: 8773
   server: cn01.efan8867801.xyz
   tfo: false
   type: ss
-- cipher: aes-256-gcm
+- alterId: 2
+  cipher: auto
   client-fingerprint: chrome
-  name: 15|🇺🇸 美国3|@ripaojiedian
-  password: W6FN1QTMR6UNWXQS
-  port: 17003
-  server: ti3hyra4.slashdevslashnetslashtun.net
+  name: 10,11|美国3|@ripaojiedian
+  network: ws
+  port: '420'
+  server: 0e1f11d2-stw740-sy3miy-3kis.fmt2-us.sghuawei.com
+  servername: ''
+  skip-cert-verify: false
   tfo: false
-  type: ss
-- cipher: aes-256-gcm
+  tls: false
+  type: vmess
+  uuid: 117fc3d8-fd04-11ed-b345-f23c93136cb3
+  ws-opts:
+    headers:
+      Host: 0e1f11d2-stw740-sy3miy-3kis.fmt2-us.sghuawei.com
+    path: /
+- client-fingerprint: chrome
+  name: 10|🇺🇸 美国4|@ripaojiedian
+  password: '!!str 74260702287384200'
+  port: 443
+  server: settled-mite.shiner427.skin
+  skip-cert-verify: false
+  sni: settled-mite.shiner427.skin
+  type: trojan
+- alterId: 2
+  cipher: auto
   client-fingerprint: chrome
-  name: 15|🇺🇸 美国4|@ripaojiedian
-  password: SE9CD8DTF7E35MFG
-  port: 17006
-  server: ti3hyra4.slashdevslashnetslashtun.net
+  name: 10,11|美国5|@ripaojiedian
+  network: ws
+  port: '420'
+  server: 494a196c-stucg0-t16qfc-3ge3.fmt2-us.sghuawei.com
+  servername: ''
+  skip-cert-verify: false
   tfo: false
+  tls: false
+  type: vmess
+  uuid: 6e28d086-f1bd-11ed-9ebc-f23c93665044
+  ws-opts:
+    headers:
+      Host: 494a196c-stucg0-t16qfc-3ge3.fmt2-us.sghuawei.com
+    path: /
+- name: 11|美国4|@ripaojiedian
+  network: tcp
+  password: '!!str 74260702287384200'
+  port: 443
+  server: settled-mite.shiner427.skin
+  type: trojan
+- cipher: chacha20-ietf-poly1305
+  name: 13|🇺🇸 美国 01 | 1x US Los Angeles
+  password: b8ad259c-e7d1-4dc0-95d6-2f7997693725
+  port: 36211
+  server: free.2weradf.xyz
   type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 13|🇺🇸 美国住宅IP 02 | 1x US Los Angel...
+  password: b8ad259c-e7d1-4dc0-95d6-2f7997693725
+  port: 36213
+  server: free.2weradf.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 13|🇺🇸 美国 03 | 1x US Washington
+  password: b8ad259c-e7d1-4dc0-95d6-2f7997693725
+  port: 36215
+  server: free.2weradf.xyz
+  type: ss
+  udp: true
